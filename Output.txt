@@ -1,0 +1,11 @@
+
+Problem #1
+
+2 Square (S) Of Size 1
+1 Square (S) Of Size 2
+
+*****************************
+
+Problem #2
+
+No Square Can be Found ...!
